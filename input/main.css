@@ -4,6 +4,6 @@
 
 @layer utilities{
     .span{
-        @apply bg-[#5677AC26] px-1 mr-2  hover:bg-black hover:text-white transition
+        @apply bg-[#5677AC26] px-1 mr-2  hover:bg-black hover:text-white transition;
     }
 }
